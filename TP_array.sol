@@ -20,5 +20,4 @@ contract array_practice{
     function get_all_numbers () public view returns (uint [] memory) {
         return numbers;
     }
-
 }
